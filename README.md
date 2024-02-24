@@ -3,7 +3,7 @@
 ## Method
 We utilized Restormer (https://github.com/swz30/Restormer) as the backbone for our single-channel network and employed both Restormer and MoDL (https://github.com/hkaggarwal/modl) as backbones for our multi-channel network. 
 
-Overview of Latent Transformer.
+*Overview of Latent Transformer*
 <div align="center">
     <img src="ModelFigure.png" width="900"/>
 </div>
