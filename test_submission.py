@@ -159,7 +159,7 @@ def main(debug=False):
                 model, step, config = load(model_path)
 
                 if debug:
-                    config.data_dir = "/home/mt3019/biomedia/vol/biodata/data/CMRxRecon 2023"
+                    config.data_dir = "/home/data/CMRxRecon 2023"
                 else: 
                     config.data_dir = "/input"
 

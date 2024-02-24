@@ -678,7 +678,7 @@ def build_test_dataloader(
 
 
 if __name__ == "__main__":
-    folder = "/home/mt3019/biomedia/vol/biodata/data/CMRxRecon 2023"
+    folder = "/home/data/CMRxRecon 2023"
 
     dataloaders = build_dataloaders(
         folder,

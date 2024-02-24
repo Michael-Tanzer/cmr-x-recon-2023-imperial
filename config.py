@@ -19,7 +19,7 @@ parser.add_argument("--resume_path", type=str, default=None, help="Path to check
 parser.add_argument(
     "--data_dir",
     type=str,
-    default="/home/mt3019/biomedia/vol/biodata/data/CMRxRecon 2023",
+    default="/home/data/CMRxRecon 2023",
     help="Path to the dataset",
 )
 parser.add_argument(
