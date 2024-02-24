@@ -5,7 +5,7 @@ We utilized Restormer (https://github.com/swz30/Restormer) as the backbone for o
 
 Overview of Latent Transformer.
 <div align="center">
-    <img scr = "ModelFigure.png" width = "900"/>
+    <img src="ModelFigure.png" width="900"/>
 </div>
 
 We introduced a 'Latent Transformer' featuring an encoder-decoder architecture with shared blocks, designed to model time-dependent relationships. 
